@@ -1,4 +1,8 @@
-# 👋 chaughn robin / bxdda
+# bxdda
+
+
+(Chaughn Robin)
+
 
 I build things across systems, data, and games.
 
