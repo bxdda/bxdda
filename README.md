@@ -74,7 +74,7 @@ In-progress project exploring:
 ## 🌐 Links
 
 - 🌍 https://bxdda.com  
-- 🏢 https://nomerci.com  
+- 🏢 https://nomerci.studio  
 - 🎮 https://expansion-game.com  
 
 ---
