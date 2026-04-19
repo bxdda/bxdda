@@ -56,6 +56,14 @@ Built to explore how small mechanics + good feedback loops create engagement.
 
 ---
 
+### 🧪 noMerci Studio
+https://nomerci.studio
+
+A performance-focused portfolio and project hub built with Astro, leveraging React for interactivity and Tailwind CSS for rapid, scalable styling.
+Designed to balance minimalism with expressive UI and smooth transitions.
+
+---
+
 ### 🌙 Succumb  
 In-progress project exploring:
 - Character-driven interaction systems  
