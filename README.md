@@ -1,100 +1,49 @@
 # bxdda
 
+<p align="center">
+  <img src="assets/banner.svg" alt="bxdda banner" width="100%" />
+</p>
 
-(Chaughn Robin)
+**Chaughn Robin**
 
+I build software, games, and systems that I try to understand from the inside out.
 
-I build things across systems, data, and games.
+Most of my work is split between Java applications, data/AI experiments, and real-time game systems. I like projects where the details matter: I really like getting to work very low-level with systems. When I have time, I am trying to work on my own game engine written with the libGDX framework (Java).
 
-Most of what I do sits at the intersection of:
-- **Java systems & full-stack architecture**
-- **Python for data, AI, and large-scale processing**
-- **Game development (real-time systems, animation, interaction)**
-
-I like understanding how things work at a deeper level.
----
-
-## 🧠 What I Care About
-
-- Systems that *feel good* to use
-- Clean architecture over quick hacks
-- Real-time feedback and interactivity
-- Bridging different domains (data ↔ gameplay ↔ UI)
-- Learning concepts deeply, not just using tools
+What I love getting to work on: 
+- Java architecture and backend systems
+- libGDX, Spine, game physics, and 2.5D game development
+- Python for data, AI, and automation
+- Clean UI, responsive feedback, and interactive design
+- Projects that connect technical depth with something people can actually use
 
 ---
 
-## 🛠️ Areas I Work In
+## Projects
 
-### 🧱 Java & Systems
-- Backend design, APIs, and application structure
-- Object-oriented design and scalable architecture
-- Building systems that are maintainable and extensible
+### Expansion
+https://expansion-game.com
 
-### 🧠 Python / Data / AI
-- Data processing (Pandas, PySpark)
-- Machine learning (PyTorch, TensorFlow)
-- Building and integrating models into real applications
-- Exploring practical uses of AI beyond theory
+A daily acronym puzzle game built in Java with LibGDX.  
+Started as a simple word game idea and became a full HTML deployed project with UI polish, daily progression, animations, and deployment through Netlify, built using libGDX.
 
-### 🎮 Game Development
-- Java
-- Animation systems
-- 2.5D workflows (2D animation in 3D space)
-- Physics integration and real-time interaction
-- UI systems (Scene2D) and player feedback loops
-
----
-
-## 🧩 Things I’ve Built
-
-### 🎮 Expansion  
-https://expansion-game.com  
-
-A daily acronym puzzle game focused on simplicity and replayability.  
-Built to explore how small mechanics + good feedback loops create engagement.
-
----
-
-### 🧪 noMerci Studio
+### noMerci Studio
 https://nomerci.studio
 
-A game studio website exploring modern web design and performance-focused development:
+A lightweight studio site built with Astro, React, and Tailwind.  
+The goal was to make something fast, modern, and atmospheric without feeling like a generic template.
 
-- Built with Astro, React, and Tailwind CSS
-- Component-driven architecture with responsive layouts
-- Smooth UI transitions and a focus on speed and clarity
+### Succumb
+A 2.5D game project built around Spine animation, 3D environments, Bullet physics, and cinematic camera work.
 
----
+A lot of the challenge is making 2D character animation feel grounded inside a 3D world.
 
-### 🌙 Succumb  
-In-progress project exploring:
-- Character-driven interaction systems  
-- Animation + physics synchronization  
-- Atmosphere and responsive design  
+Built in libGDX.
 
 ---
 
-### ☁️ Distributed Systems / Data Projects
-- Containerized apps using Docker + Kubernetes  
-- Data pipelines and large-scale processing  
-- Applied ML projects (classification, analysis)
+## What I’m Working Toward
 
----
+Right now I’m focused on building more polished, complete projects — doing them as the sole dev really gives me some experience where software architecture, real-time feedback, animation, AI, and data systems overlap.
 
-## 🌐 Links
-
-- 🌍 https://bxdda.com  
-- 🏢 https://nomerci.studio  
-- 🎮 https://expansion-game.com  
-
----
-
-## 🧭 Current Direction
-
-- Pushing deeper into **AI + real-time systems**
-- Building more **polished, cohesive experiences**
-- Exploring where **data systems and interactive systems overlap**
-
----
-bxdda
+i like understanding how things work
