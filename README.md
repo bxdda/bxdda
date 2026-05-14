@@ -6,9 +6,9 @@
 
 **Chaughn Robin**
 
-I build software, games, and systems that I try to understand from the inside out.
+I build software, games, and systems, and I try to understand them from the inside out.
 
-Most of my work is split between Java applications, data/AI experiments, and real-time game systems. I like projects where the details matter: I really like getting to work very low-level with systems. When I have time, I am trying to work on my own game engine written with the libGDX framework (Java).
+Most of my work is split between Java applications, data/AI experiments, and real-time game systems. I love personal projects where the details matter: I really like getting to work very low-level with systems. In my free time, I am slowly building my own game engine written with the libGDX framework (Java).
 
 What I love getting to work on: 
 - Java architecture and backend systems
